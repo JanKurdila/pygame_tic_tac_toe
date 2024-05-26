@@ -1,6 +1,6 @@
 # Piškvorky (Tic-Tac-Toe)
 
-Tento projekt implementuje hru Piškvorky (Tic-Tac-Toe) pomocou knižnice Pygame. Hra umožňuje dvom hráčom striedať sa pri umiestňovaní znakov (X a O) na hraciu dosku (pomocou myši), pričom hra deteguje výherná kombinácia a zvýrazňuje víťaznú líniu.
+Tento projekt implementuje hru Piškvorky (Tic-Tac-Toe) pomocou knižnice Pygame. Hra umožňuje dvom hráčom striedať sa pri umiestňovaní znakov (X a O) na hraciu dosku (pomocou myši), pričom hra detekuje výhernú kombináciu a zvýrazňuje víťaznú líniu.
 
 # Ilustráčny obrázok
 ![alt.text](Obrázky/ilustracia.jpg)
